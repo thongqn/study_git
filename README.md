@@ -3,4 +3,4 @@
 This is simple file.
 
 # new line
-modified
+modified: I hope this is fine.
