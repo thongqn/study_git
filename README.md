@@ -3,4 +3,6 @@
 This is simple file.
 
 # new line
-modified
+modified: This is bound to cause trouble.
+
+# update for branch
